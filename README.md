@@ -25,6 +25,7 @@ FFT of the template `x`:
 ![fft_x.png](./fft_x.png)
 
 References:
+
 1. Tasmanian Tiger image from http://www.thylacineresearchunit.org/Photos-PH-PH30-5s-30-5846c.jpg
 2. Code inspired from http://16623.courses.cs.cmu.edu/slides/Lecture_14.pdf
 
