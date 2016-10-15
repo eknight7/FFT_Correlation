@@ -66,7 +66,7 @@ fprintf('Done!\n');
 
 % Get the FFT of x
 fprintf('FFT of x...');
-F = fft(x);
+F = fft2(x);
 figure('Name', 'FFT of x', 'NumberTitle', 'off');
 imshow(F); title('FFT of x');
 imwrite(F, './fft_x.png');
